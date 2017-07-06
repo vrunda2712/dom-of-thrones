@@ -105,7 +105,9 @@ function scene1() {
  frame(function() { branChasesArya() })
  frame(function() { branChasesArya() })
  frame(function() { branChasesArya() })
- frame(function() { branChasesArya() })
+ frame(function() {
+   branChasesArya()
+ })
 
   function branChasesArya() {
     bran.style.left = (parseInt(bran.style.left) - 10) + '%'
