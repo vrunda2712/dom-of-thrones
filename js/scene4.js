@@ -221,6 +221,7 @@ function scene4() {
     jonContainer.style.top = '100%'
     jonContainer.style.left = '70%'
   })
+  
   // End Stage direction 3
 
   frame(function() {
